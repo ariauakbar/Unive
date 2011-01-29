@@ -1,0 +1,484 @@
+TUnive
+v7
+r0
+t317760500.353729
+cCheck dependencies
+cProcessInfoPlistFile "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Info.plist" Unive-Info.plist
+cCompileXIB "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/MainWindow.xib"
+cCompileXIB "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/RootViewController.xib"
+cCompileXIB "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.xib"
+cCompileXIB "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.xib"
+cCompileXIB "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.xib"
+cProcessPCH /var/folders/Y2/Y2T4uQPkGNi4Xf3JdNUmLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Unive_Prefix-gipylnkjrqhpkncczacwncqkvnqj/Unive_Prefix.pch.gch Unive_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Unive.momd" "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Unive.xcdatamodeld"
+cCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/main.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/UniveAppDelegate.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/UniveAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/RootViewController.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/SubjectListTableViewController.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/SubjectDetailTableViewController.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/AddSubjectViewController.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C660C910000000000000132
+t1281756305
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004BFDFEB400000000001CFA90
+t1274937012
+s1899152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BFDFEA8000000000000046B
+t1274937000
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.h
+c000000004D405C6B000000000000029F
+t1296063595
+s671
+i<UIKit/UIKit.h>
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m
+c000000004D4061D70000000000000A6E
+t1296064983
+s2670
+i"AddSubjectViewController.h"
+i"Subject.h"
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.xib
+c000000004D3FE8B50000000000005120
+t1296033973
+s20768
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/RootViewController.h
+c000000004D406B2C0000000000000247
+t1296067372
+s583
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/RootViewController.m
+c000000004D406B2C0000000000002EE9
+t1296067372
+s12009
+i"RootViewController.h"
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.h
+c000000004D40453200000000000001F8
+t1296057650
+s504
+i<UIKit/UIKit.h>
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.m
+c000000004D404424000000000000151D
+t1296057380
+s5405
+i"SubjectDetailTableViewController.h"
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.xib
+c000000004D4007B50000000000004FE3
+t1296041909
+s20451
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.h
+c000000004D405DFD000000000000031A
+t1296063997
+s794
+i<UIKit/UIKit.h>
+i"AddSubjectViewController.h"
+i"SubjectDetailTableViewController.h"
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.m
+c000000004D40676100000000000016CF
+t1296066401
+s5839
+i"SubjectListTableViewController.h"
+i"Subject.h"
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.xib
+c000000004D3FCD7A0000000000001CA5
+t1296027002
+s7333
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/UniveAppDelegate.h
+c000000004D406C490000000000000483
+t1296067657
+s1155
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"SubjectListTableViewController.h"
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/UniveAppDelegate.m
+c000000004D406C610000000000002134
+t1296067681
+s8500
+i"UniveAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/MainWindow.xib
+c000000004D406B2C0000000000005FEC
+t1296067372
+s24556
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/RootViewController.xib
+c000000004D406B2C0000000000004450
+t1296067372
+s17488
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Unive.xcdatamodeld
+c000000004D406B2C0000000000000088
+t1296067372
+s136
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Unive_Prefix.pch
+c000000004D406B2C000000000000015F
+t1296067372
+s351
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app
+t2
+s0
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app.dSYM
+t2
+s0
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/AddSubjectViewController.nib
+t1296067691
+s1493
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Info.plist
+t1296067686
+s583
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/MainWindow.nib
+t1296067690
+s1507
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/PkgInfo
+t1296067686
+s8
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/RootViewController.nib
+t1296067690
+s979
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/SubjectDetailTableViewController.nib
+t1296067691
+s971
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/SubjectListTableViewController.nib
+t1296067691
+s979
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Unive
+t2
+s0
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Unive.momd
+t1296067699
+s136
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/AddSubjectViewController.o
+t2
+s0
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/RootViewController.o
+t1296067699
+s64440
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/SubjectDetailTableViewController.o
+t1296067700
+s46236
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/SubjectListTableViewController.o
+t2
+s0
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/Unive.LinkFileList
+c000000004D406C660000000000000460
+t1296067686
+s1120
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/UniveAppDelegate.o
+t1296067699
+s63316
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/main.o
+t1296067699
+s6408
+
+N/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/main.m
+c000000004D406B2C0000000000000169
+t1296067372
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/Y2/Y2T4uQPkGNi4Xf3JdNUmLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Unive_Prefix-gipylnkjrqhpkncczacwncqkvnqj/Unive_Prefix.pch.gch
+t1296067699
+s16097072
+
+NUnive-Info.plist
+c000000004D406B2C000000000000038D
+t1296067372
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317760486#317760486#0(0"0(0#1#0"8675210016#0"0#
+
+CCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/AddSubjectViewController.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317760500.281204
+e317760500.353644
+r0
+xCompileC
+xbuild/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/AddSubjectViewController.o
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m:10:20: error: Subject.h: No such file or directory
+o/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m: In function '-[AddSubjectViewController save]':
+o/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m:74: error: request for member 'subjectName' in something not a structure or union
+o{standard input}:250:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"
+o{standard input}:250:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:244:non-relocatable subtraction expression, "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:244:symbol: "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:235:non-relocatable subtraction expression, "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:235:symbol: "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:205:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+o{standard input}:205:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:201:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L00000000001$pb"
+o{standard input}:201:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:193:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+o{standard input}:193:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:187:non-relocatable subtraction expression, "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:187:symbol: "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:180:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:180:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:171:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:171:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:165:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+o{standard input}:165:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:153:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:153:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:149:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:149:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:143:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:143:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:140:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"
+o{standard input}:140:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:134:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:134:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:125:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:125:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:119:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+o{standard input}:119:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:107:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:107:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:103:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:103:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:97:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:97:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:94:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"
+o{standard input}:94:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:87:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:87:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+lSLF07#2@133"Compile /Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m317760500#317760500#0(6839"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m:10:20: error: Subject.h: No such file or directory/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m: In function '-[AddSubjectViewController save]':/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m:74: error: request for member 'subjectName' in something not a structure or union{standard input}:250:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"{standard input}:250:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:244:non-relocatable subtraction expression, "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" minus "L00000000002$pb"{standard input}:244:symbol: "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:235:non-relocatable subtraction expression, "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" minus "L00000000002$pb"{standard input}:235:symbol: "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:205:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"{standard input}:205:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:201:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L00000000001$pb"{standard input}:201:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:193:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"{standard input}:193:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:187:non-relocatable subtraction expression, "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" minus "L00000000001$pb"{standard input}:187:symbol: "L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:180:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:180:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:171:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:171:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:165:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"{standard input}:165:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:153:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:153:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:149:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:149:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:143:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:143:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:140:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"{standard input}:140:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:134:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:134:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:125:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:125:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:119:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"{standard input}:119:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:107:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:107:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:103:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:103:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:97:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:97:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:94:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"{standard input}:94:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:87:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:87:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_AddSubjectViewController.subjectTextField$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_102(4@36"Subject.h: No such file or directory317760500#0#177#0(6@125"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m317757783#10#0#10#0#28"*: No such file or directory0(4@70"Request for member 'subjectName' in something not a structure or union317760500#352#208#0(6@125"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m317757783#74#0#74#0#0"0(0#0#125"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m8659185632#2503"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-generated-files.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-own-target-headers.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-all-target-headers.hmap" -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-project-headers.hmap" "-F/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/include" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources/i386" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources" -include /var/folders/Y2/Y2T4uQPkGNi4Xf3JdNUmLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Unive_Prefix-gipylnkjrqhpkncczacwncqkvnqj/Unive_Prefix.pch -c "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.m" -o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/AddSubjectViewController.o"1#
+
+CCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/RootViewController.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317760499.409423
+e317760499.550424
+r1
+xCompileC
+xbuild/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/RootViewController.o
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/RootViewController.m317760499#317760499#0(0"0(0#0#119"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/RootViewController.m8652291776#2491"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-generated-files.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-own-target-headers.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-all-target-headers.hmap" -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-project-headers.hmap" "-F/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/include" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources/i386" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources" -include /var/folders/Y2/Y2T4uQPkGNi4Xf3JdNUmLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Unive_Prefix-gipylnkjrqhpkncczacwncqkvnqj/Unive_Prefix.pch -c "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/RootViewController.m" -o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/SubjectDetailTableViewController.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317760499.562403
+e317760500.283157
+r1
+xCompileC
+xbuild/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/SubjectDetailTableViewController.o
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@141"Compile /Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.m317760499#317760500#0(0"0(0#0#133"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.m8642358720#2519"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-generated-files.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-own-target-headers.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-all-target-headers.hmap" -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-project-headers.hmap" "-F/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/include" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources/i386" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources" -include /var/folders/Y2/Y2T4uQPkGNi4Xf3JdNUmLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Unive_Prefix-gipylnkjrqhpkncczacwncqkvnqj/Unive_Prefix.pch -c "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.m" -o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/SubjectDetailTableViewController.o"0#
+
+CCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/SubjectListTableViewController.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317760499.550724
+e317760500.281079
+r0
+xCompileC
+xbuild/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/SubjectListTableViewController.o
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.m:10:20: error: Subject.h: No such file or directory
+lSLF07#2@139"Compile /Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.m317760499#317760500#0(183"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.m:10:20: error: Subject.h: No such file or directory1(4@36"Subject.h: No such file or directory317760499#0#183#0(6@131"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.m317759201#10#0#10#0#28"*: No such file or directory0(0#0#131"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.m8643150560#2515"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-generated-files.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-own-target-headers.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-all-target-headers.hmap" -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-project-headers.hmap" "-F/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/include" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources/i386" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources" -include /var/folders/Y2/Y2T4uQPkGNi4Xf3JdNUmLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Unive_Prefix-gipylnkjrqhpkncczacwncqkvnqj/Unive_Prefix.pch -c "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.m" -o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/SubjectListTableViewController.o"1#
+
+CCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/UniveAppDelegate.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/UniveAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317760499.375987
+e317760499.550629
+r1
+xCompileC
+xbuild/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/UniveAppDelegate.o
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/UniveAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/UniveAppDelegate.m317760499#317760499#0(0"0(0#0#117"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/UniveAppDelegate.m8655424608#2487"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-generated-files.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-own-target-headers.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-all-target-headers.hmap" -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-project-headers.hmap" "-F/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/include" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources/i386" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources" -include /var/folders/Y2/Y2T4uQPkGNi4Xf3JdNUmLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Unive_Prefix-gipylnkjrqhpkncczacwncqkvnqj/Unive_Prefix.pch -c "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/UniveAppDelegate.m" -o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/UniveAppDelegate.o"0#
+
+CCompileC build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/main.o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317760499.179037
+e317760499.375857
+r1
+xCompileC
+xbuild/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/main.o
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/main.m317760499#317760499#0(0"0(0#0#97"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/main.m8676180608#2455"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-generated-files.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-own-target-headers.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-all-target-headers.hmap" -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-project-headers.hmap" "-F/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/include" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources/i386" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources" -include /var/folders/Y2/Y2T4uQPkGNi4Xf3JdNUmLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Unive_Prefix-gipylnkjrqhpkncczacwncqkvnqj/Unive_Prefix.pch -c "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/main.m" -o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.xib"
+s317760491.212021
+e317760491.689490
+r1
+xCompileXIB
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.xib
+lSLF07#2@47"CompileXIB Classes/AddSubjectViewController.xib317760491#317760491#0(0"0(0#0#127"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.xib8614703104#766"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/AddSubjectViewController.nib" "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/AddSubjectViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.xib"
+s317760490.665179
+e317760491.231263
+r1
+xCompileXIB
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.xib
+lSLF07#2@55"CompileXIB Classes/SubjectDetailTableViewController.xib317760490#317760491#0(0"0(0#0#135"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.xib8639402656#782"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/SubjectDetailTableViewController.nib" "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectDetailTableViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.xib"
+s317760490.677132
+e317760491.211915
+r1
+xCompileXIB
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.xib
+lSLF07#2@53"CompileXIB Classes/SubjectListTableViewController.xib317760490#317760491#0(0"0(0#0#133"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.xib8636779328#778"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/SubjectListTableViewController.nib" "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Classes/SubjectListTableViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/MainWindow.xib"
+s317760486.274677
+e317760490.664933
+r1
+xCompileXIB
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317760486#317760490#0(0"0(0#0#105"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/MainWindow.xib8629055744#730"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/MainWindow.nib" "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/RootViewController.xib"
+s317760486.275595
+e317760490.677029
+r1
+xCompileXIB
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib317760486#317760490#0(0"0(0#0#113"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/RootViewController.xib8674144992#746"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/RootViewController.nib" "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CDataModelVersionCompile "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Unive.momd" "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Unive.xcdatamodeld"
+s317760499.177906
+e317760499.409303
+r1
+xDataModelVersionCompile
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Unive.momd
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Unive.xcdatamodeld
+lSLF07#2@91"DataModelVersionCompile build/Debug-iphonesimulator/Unive.app/Unive.momd Unive.xcdatamodeld317760499#317760499#0(0"0(0#0#109"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Unive.xcdatamodeld8630317024#542"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Unive.xcdatamodeld" "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Unive.momd"0#
+
+CGenerateDSYMFile "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app.dSYM" "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Unive"
+r0
+
+CLd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Unive" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Info.plist" Unive-Info.plist
+s317760486.268484
+e317760486.273930
+r1
+xProcessInfoPlistFile
+x/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Info.plist
+xUnive-Info.plist
+lSLF07#2@24"Process Unive-Info.plist317760486#317760486#0(0"0(0#0#107"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Unive-Info.plist8644090144#635"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Unive-Info.plist -genpkginfo "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app/Info.plist"0#
+
+CProcessPCH /var/folders/Y2/Y2T4uQPkGNi4Xf3JdNUmLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Unive_Prefix-gipylnkjrqhpkncczacwncqkvnqj/Unive_Prefix.pch.gch Unive_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317760491.689621
+e317760499.177649
+r1
+xProcessPCH
+x/var/folders/Y2/Y2T4uQPkGNi4Xf3JdNUmLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Unive_Prefix-gipylnkjrqhpkncczacwncqkvnqj/Unive_Prefix.pch.gch
+xUnive_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Unive_Prefix.pch317760491#317760499#0(0"0(0#0#107"/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Unive_Prefix.pch8643069824#2295"    cd "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-generated-files.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-own-target-headers.hmap" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-all-target-headers.hmap" -iquote "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/Unive-project-headers.hmap" "-F/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/include" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources/i386" "-I/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Unive.build/Debug-iphonesimulator/Unive.build/DerivedSources" -c "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/Unive_Prefix.pch" -o /var/folders/Y2/Y2T4uQPkGNi4Xf3JdNUmLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Unive_Prefix-gipylnkjrqhpkncczacwncqkvnqj/Unive_Prefix.pch.gch0#
+
+CTouch "/Users/mohamadariauakbar/Documents/Ariau's Folder/Current Project/cn/CoreData/CoreD2/Unive/build/Debug-iphonesimulator/Unive.app"
+r0
+
